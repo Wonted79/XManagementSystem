@@ -1,2 +1,2 @@
-# ManagementSystem
+# AccountManagementSystem
 course project for oop
